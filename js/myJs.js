@@ -7,10 +7,10 @@ const textConfig = {
   text6: "Em điên quá",
   text7: "Chài nói vậy thôi, chứ ai rảnh đâu cho anh quay xe. Nói chứ, anh muốn em tặng quà gì nè?",
   text8: "Gửi em",
-  text9: "Anh cũng yêu em",
+  text9: "Anh chỉ cần em thôi",
   text10: "HAHA",
   text11:
-    "Hỏi vui vậy thôi, chứ em không có gì tặng anh ngoài trái tim đầy tình yêu chân thành =)))). Cảm ơn anh đã xuất hiện trong đời em. Chúc anh sinh nhật vui vẻ. Hun anh cái nè, moahhh~~",
+    "Aww, a dễ thương nhứt, em cũng chỉ cần anh thôiii. Mà sinh nhật em thì em vẫn muốn được tặng quà nha =)))). Cảm ơn anh đã xuất hiện trong đời em. Chúc anh sinh nhật vui vẻ. Hun anh cái nè, moahhh~~",
   text12: "Hun em lại <3",
 };
 
